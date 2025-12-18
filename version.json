@@ -12,6 +12,12 @@
       "key": "indev",
       "path": "./sentences/indev.json",
       "timestamp": 1619244060706
+    },
+    {
+      "name": "Star_On_Water",
+      "key": "star",
+      "path": "./sentences/star.json",
+      "timestamp": 1619244060606
     }
   ]
 }
