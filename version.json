@@ -4,13 +4,13 @@
   "updated_at": 1764659793925,
   "categories": {
     "path": "./categories.json",
-    "timestamp": 1597712000881
+    "timestamp": 1766053364
   },
   "sentences": [
     {
       "name": "Indevclassic",
-      "key": "i",
-      "path": "./sentences/i.json",
+      "key": "a",
+      "path": "./sentences/a.json",
       "timestamp": 1619244060706
     }
   ]

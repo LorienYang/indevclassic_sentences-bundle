@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "uuid": "13738bee-18e3-4eb8-8e6e-aa74798e5a58",
+    "uuid": "9818ecda-9cbf-4f2a-9af8-8136ef39cfcd",
     "hitokoto": "我想让GoldenEggs继续更新《沙雕跑酷》和《连锁反应》系列。",
-    "type": "i",
-    "from": "Indevclassic",
+    "type": "a",
+    "from": "QQ",
     "from_who": "Indevclassic",
-    "creator": "名言",
+    "creator": "Indevclassic",
     "creator_uid": 15877,
     "reviewer": 4756,
     "commit_from": "web",
