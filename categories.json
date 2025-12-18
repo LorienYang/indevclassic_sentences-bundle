@@ -1,4 +1,5 @@
-{
+[
+  {
     "id": 1,
     "name": "Indevclassic",
     "desc": "Indevclassic名言",
@@ -7,3 +8,4 @@
     "updated_at": "2020-05-15T10:48:12Z",
     "path": "./sentences/i.json"
   }
+]
